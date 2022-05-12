@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### About me
 🤔 I'm now interested in Web Application. Any ideas are welcome! 🍻   
 
-📫 How to contact me: shaowang[At]sjtu[dot]edu[dot]com
+📫 Email: shaowang2002@gmail.com
