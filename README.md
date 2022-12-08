@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - Sleep... 🛌
 
 ### About me
-🤔 I'm now struggling to survive in Compiler and CSE class now. Any help is welcome! 🍻   
+🥲 I'm now struggling to survive in Compiler and CSE class. Any help is welcome! 😿   
 
 📫 Email: shaowang2002@gmail.com
