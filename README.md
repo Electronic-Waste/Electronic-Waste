@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Electronic-Waste?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Electronic-Waste)
 
-😎 This is Electronic-Waste, aka. **Shao Wang**, a sophomore🧑‍🎓 at SJTU majoring in Software Engineering.  
+😎 This is Electronic-Waste, aka. **Shao Wang**, a junior🧑‍🎓 at SJTU majoring in Software Engineering.  
 
 🔭 I'm devoting myself to improving my poor coding abilities😢 now.
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - Sleep... 🛌
 
 ### About me
-🤔 I'm now interested in Web Application. Any ideas are welcome! 🍻   
+🤔 I'm now struggling to survive in Compiler and CSE class now. Any help is welcome! 🍻   
 
 📫 Email: shaowang2002@gmail.com
