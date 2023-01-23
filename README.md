@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 🔭 I'm devoting myself to improving my poor coding abilities😢 now.
 
 ### Hobbies
-- 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
-- Movies (espacially War, Science Fictions) 🎞️
-- Travelling ✈️
+- Go to gym to build up my muscle! 💪 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
+- 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 
+- Play harmonica 🎼
+- Basketball 🏀
 - Sleep... 🛌
 
 ### About me
-🥲 I'm now struggling to survive in Compiler and CSE class. Any help is welcome! 😿   
+🥲 I'm now struggling to adjust my learing method towards our classes. Any help is welcome! 😿 
+
+ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
 
 📫 Email: shaowang2002@gmail.com
