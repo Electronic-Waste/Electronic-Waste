@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Play harmonica 🎼
 - Basketball 🏀
 - Sleep... 🛌
-- love girl
+- love beautiful girl
 
 ### About me
 🥲 I'm now struggling to adjust my learing method towards our classes. Any help is welcome! 😿 
