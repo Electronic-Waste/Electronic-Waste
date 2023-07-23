@@ -10,7 +10,6 @@
 ### Hobbies
 - Go to gym to build up my muscle! 💪 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 - 3A FPS Games (BattleFieldsV etc.) 🎮 
-- Play harmonica 🎼
 - Basketball 🏀
 - Sleep... 🛌
 
