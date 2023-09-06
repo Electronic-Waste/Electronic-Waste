@@ -2,7 +2,7 @@
 ### Hi there 👋
 ![GitHub followers](https://img.shields.io/github/followers/Electronic-Waste?style=social)
 
-😎 This is Electronic-Waste, aka. **Shao Wang**, a junior🧑‍🎓 at SJTU majoring in Software Engineering.  
+😎 This is Electronic-Waste, aka. **Shao Wang**, a senior🧑‍🎓 at SJTU majoring in Software Engineering.  
 
 🔭 I'm devoting myself to K8s related works now.
 
