@@ -5,7 +5,7 @@
 
 This is Electronic-Waste😎, aka. **Shao Wang**, a senior🧑‍🎓 at SJTU majoring in Software Engineering.  
 
-As a fanatical computer system fans, I have great enthusiasm for fields like **cloud infrastructure**, **high performance computing**. And I enjoy exploring unknown areas to me, such as **AI infrastructure**, **LLMs**. As for my future career life, my dream is to become an **infrastructure developer** designing scalable, robust and high performance systems for all kinds of workload!
+As a fanatical computer system fans, I have great enthusiasm for fields like **cloud infrastructure**. And I enjoy exploring unknown areas to me, such as **AI infrastructure**, **LLMs**. As for my future career life, my dream is to become an **infrastructure developer** designing scalable, robust and high performance systems for all kinds of workload!
 
 Currently, I'm working as an undergraduate research assistant in [SAIL](https://github.com/sjtu-sail) and engaged in k8s related works.
 
