@@ -9,7 +9,9 @@ As a fanatical computer system fans, I have great enthusiasm for fields like **c
 
 Currently, I'm working as an undergraduate research assistant in [SAIL](https://github.com/sjtu-sail) and engaged in k8s related works.
 
- <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
+<p align="center">
+	<a href="https://github.com/Electronic-Waste"><img src="https://raw.githubusercontent.com/Electronic-Waste/Electronic-Waste/master/github-metrics.svg" alt="metrics"></a>
+</p>
 
 ### About me
 ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
