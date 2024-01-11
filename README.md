@@ -10,10 +10,14 @@ As a fanatical computer system fans, I have great enthusiasm for fields like **c
 Currently, I'm working as an undergraduate research assistant in [SAIL](https://github.com/sjtu-sail) and engaged in k8s related works.
 
 <p align="center">
-	<a href="https://github.com/Electronic-Waste"><img src="https://raw.githubusercontent.com/Electronic-Waste/Electronic-Waste/master/github-metrics.svg" alt="metrics"></a>
+	<a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 </p>
 
 ### About me
+🌟 My [OSS Insight](https://ossinsight.io/analyze/Electronic-Waste).
+
 ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
 
 📫 Email: shaowang[AT]sjtu[DOT]edu[DOT]cn
+
+

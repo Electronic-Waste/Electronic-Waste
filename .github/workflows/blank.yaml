@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: gaocegege
+          user: Electronic-Waste
           template: classic
           base: header
           config_timezone: Asia/Shanghai
