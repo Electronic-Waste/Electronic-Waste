@@ -19,6 +19,9 @@ Currently, I'm working as an undergraduate research assistant in [SAIL](https://
 
 📫 Email: shaowang[AT]sjtu[DOT]edu[DOT]cn
 
-<a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
+<p align='center'>
+    <a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
+</p>
+
 
 
