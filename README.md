@@ -11,12 +11,12 @@ Currently, I'm working as an undergraduate research assistant in [SAIL](https://
 
 ### About me
 
-<a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
-
 🌟 My [OSS Insight](https://ossinsight.io/analyze/Electronic-Waste).
 
 ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
 
 📫 Email: shaowang[AT]sjtu[DOT]edu[DOT]cn
+
+<a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 
 
