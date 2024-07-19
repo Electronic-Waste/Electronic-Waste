@@ -19,7 +19,7 @@ Currently, I'm engaged in work related to Kubernetes and network.
 
 ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
 
-📫 Email: shaowang[AT]sjtu[DOT]edu[DOT]cn
+📫 Email: shaowang2002[AT]gmail[DOT]com
 
 
 
