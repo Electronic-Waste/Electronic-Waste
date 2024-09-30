@@ -5,11 +5,11 @@
     <a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 </p>
 
-This is Electronic-Waste😎, aka. **Shao Wang**, a senior🧑‍🎓 at SJTU majoring in Software Engineering.  
+This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.  
 
-As a fanatical computer system fans, I have great enthusiasm for fields like **cloud infrastructure**. And I enjoy exploring unknown areas to me, such as **AI infrastructure**, **LLMs**. As for my future career life, my dream is to become an **infrastructure developer** designing scalable, robust and high performance systems for all kinds of workload!
+As a passionate computer system fan, I have great enthusiasm for fields like **cloud infrastructure**, **computer network**. And I enjoy exploring DevOps area, such as **MLOps**, **LLMOps**. As for my future career life, my dream is to become an **infrastructure engineer** designing scalable, robust, and high-performance systems for AI training and inference!
 
-Currently, I'm engaged in work related to Kubernetes and network.
+Currently, I'm devoted to contributing to open source software related to MLOps and Edge Computing.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
