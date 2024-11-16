@@ -17,7 +17,7 @@ By now, I have accumulated some professional experience related to **Cloud Nativ
 
 - GSoC'24 @[kubeflow](https://github.com/kubeflow): Optimize the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
 
-- Infra @BondiTech: Build a new storage system from scratch on Kubernetes in replace of the current CSV-based storage system.
+- Infra @BondiTech: Build a new quote storage system on Kubernetes in replace of the current CSV-based storage system.
 
 As for my future career life, my dream is to become an infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance. Also, I will become a **lifelong enthusiast for open source**!
 
