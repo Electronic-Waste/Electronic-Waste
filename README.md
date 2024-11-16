@@ -15,9 +15,9 @@ I'm an enthusiast for the open-source community, serving as:
 
 By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
 
-- GSoC'24 @[kubeflow](https://github.com/kubeflow): Working on optimizing the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
+- GSoC'24 @[kubeflow](https://github.com/kubeflow): Optimize the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
 
-- Infra @BondiTech: Build a new quote storage system from scratch on Kubernetes in replace of the current CSV-based storage system.
+- Infra @BondiTech: Build a new storage system from scratch on Kubernetes in replace of the current CSV-based storage system.
 
 As for my future career life, my dream is to become an infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance. Also, I will become a **lifelong enthusiast for open source**!
 
