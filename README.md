@@ -7,9 +7,19 @@
 
 This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.  
 
-As a passionate computer system fan, I have great enthusiasm for fields like **cloud infrastructure**, **computer network**. And I enjoy exploring DevOps area, such as **MLOps**, **LLMOps**. As for my future career life, my dream is to become an **infrastructure engineer** designing scalable, robust, and high-performance systems for AI training and inference!
+I'm an enthusiast for the open-source community, serving as:
 
-Currently, I'm devoted to contributing to open source software related to MLOps and Edge Computing.
+- Maintainer of [SJTU-SE](https://github.com/SJTU-SE): An unofficial organization for the School of Software Engineering, Shanghai Jiao Tong University.
+
+- Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+
+By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
+
+- GSoC'24 @[kubeflow](https://github.com/kubeflow): Working on optimizing the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
+
+- Infra @BondiTech: Build a new quote storage system from scratch on Kubernetes in replace of the current CSV-based storage system.
+
+As for my future career life, my dream is to become an infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance. Also, I will become a **lifelong enthusiast for open source**!
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
