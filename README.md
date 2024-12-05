@@ -19,7 +19,7 @@ By now, I have accumulated some professional experience related to **Cloud Nativ
 
 - Infra @BondiTech: Build a new quote storage system on Kubernetes in replace of the current CSV-based storage system.
 
-As for my future career life, my dream is to become an infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance. Also, I will become a **lifelong enthusiast for open source**!
+As for my future career life, my dream is to become an infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
