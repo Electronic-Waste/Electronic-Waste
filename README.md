@@ -13,6 +13,8 @@ I'm an enthusiast for the open-source community, serving as:
 
 - Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
+- Reviewer of [kubeflow/training-operator](https://github.com/kubeflow/training-operator): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+
 By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
 
 - GSoC'24 @[kubeflow](https://github.com/kubeflow): Optimize the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
