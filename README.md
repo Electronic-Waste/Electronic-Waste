@@ -11,11 +11,11 @@ I'm an enthusiast for the open-source community, serving as:
 
 - Maintainer of [SJTU-SE](https://github.com/SJTU-SE): An unofficial organization for the School of Software Engineering, Shanghai Jiao Tong University.
 
-- Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
-
 - Reviewer of [kubeflow/trainer](https://github.com/kubeflow/trainer): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
-- Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience, subproject of [kubeflow](https://github.com/kubeflow).
+- Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+
+- Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience.
 
 By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
 
