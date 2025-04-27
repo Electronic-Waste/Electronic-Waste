@@ -15,6 +15,8 @@ I'm an enthusiast for the open-source community, serving as:
 
 - Reviewer of [kubeflow/trainer](https://github.com/kubeflow/trainer): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
+- Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience, subproject of [kubeflow](https://github.com/kubeflow).
+
 By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
 
 - Cloud @[Databend](https://github.com/databendlabs): Author of [Databend Operator](https://github.com/databendcloud/databend-operator), engaged in the development of on-premise cloud platform.
