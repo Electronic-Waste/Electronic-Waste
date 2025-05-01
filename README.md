@@ -25,7 +25,7 @@ By now, I have accumulated some professional experience related to **Cloud Nativ
 
 - Infra @[BondiTech](https://bonditech.com.cn/): Build a new quote storage system on Kubernetes in replace of the current CSV-based storage system.
 
-As for my future career life, my dream is to become a researcher/infrastructure engineer designing **Cloud Native AI/Storage Systems** with scalability, robustness, and high performance.
+I'm seeking CS PhD opportunities in North America for 27fall, with a research focus on MLSys. Please don't hesitate to contact me if you know of any suitable openings.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
