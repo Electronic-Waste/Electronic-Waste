@@ -5,9 +5,11 @@
     <a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 </p>
 
-This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.  
+This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.
 
-I'm an enthusiast for the open-source community, serving as:
+Currently, I'm pursuing CS PhD opportunities in North America for 27fall, with a research focus on **Machine Learning System**.
+
+I'm also an enthusiast for the open-source community, serving as:
 
 - Maintainer of [SJTU-SE](https://github.com/SJTU-SE): An unofficial organization for the School of Software Engineering, Shanghai Jiao Tong University.
 
@@ -17,15 +19,13 @@ I'm an enthusiast for the open-source community, serving as:
 
 - Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience.
 
-By now, I have accumulated some professional experience related to **Cloud Native AI/Storage Systems**:
+By now, I've accumulated some industrial experience related to **Cloud Native AI/Storage Systems**:
 
 - Cloud @[Databend](https://github.com/databendlabs): Author of [Databend Operator](https://github.com/databendcloud/databend-operator), engaged in the development of on-premise cloud platform.
 
 - GSoC'24 @[kubeflow](https://github.com/kubeflow): Optimize the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
 
 - Infra @[BondiTech](https://bonditech.com.cn/): Build a new quote storage system on Kubernetes in replace of the current CSV-based storage system.
-
-I'm seeking CS PhD opportunities in North America for 27fall, with a research focus on MLSys. Please don't hesitate to contact me if you know of any suitable openings.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
@@ -35,8 +35,7 @@ I'm seeking CS PhD opportunities in North America for 27fall, with a research fo
 
 ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
 
-📫 Email: shaowang2002[AT]gmail[DOT]com
-
+📫 WeChat ID: ElectronicWs
 
 
 
