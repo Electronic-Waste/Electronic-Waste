@@ -19,6 +19,8 @@ I'm also an enthusiast for the open-source community, serving as:
 
 - Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience.
 
+- Member of [kubernetes-sigs](https://github.com/kubernetes-sigs): Kubernetes Special Interest Groups(SIGs) - SIG Apps.
+
 By now, I've accumulated some industrial experience related to **Cloud Native AI/Storage Systems**:
 
 - Cloud @[Databend](https://github.com/databendlabs): Author of [Databend Operator](https://github.com/databendcloud/databend-operator), engaged in the development of on-premise cloud platform.
