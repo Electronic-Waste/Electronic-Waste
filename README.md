@@ -7,7 +7,7 @@
 
 This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.
 
-Currently, I'm pursuing CS PhD opportunities in North America for 27fall, with a research focus on **Machine Learning System**.
+Currently, I'm **seeking CS PhD opportunities** in North America for 27fall, with a research focus on **Machine Learning System**.
 
 I'm also an enthusiast for the open-source community, serving as:
 
