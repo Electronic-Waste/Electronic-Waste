@@ -35,7 +35,7 @@ By now, I've accumulated some industrial experience related to **Cloud Native AI
 
 🌟 My [OSS Insight](https://ossinsight.io/analyze/Electronic-Waste).
 
-ℹ️ Know more about me in my [blog](https://blog.electronicwaste.cn/about/)!
+ℹ️ Know more about me in my [cv](./resume-zh.pdf) and [blog](https://blog.electronicwaste.cn/about/)!
 
 📫 WeChat ID: ElectronicWs
 
