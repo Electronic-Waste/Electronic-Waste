@@ -7,7 +7,9 @@
 
 This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.
 
-Currently, I'm **seeking CS PhD opportunities** in North America for 27fall, with a research focus on **Machine Learning System**.
+I'm **seeking CS PhD opportunities** in North America for 27fall, with a research focus on **Machine Learning System**.
+
+### Open Source
 
 I'm also an enthusiast for the open-source community, serving as:
 
@@ -17,17 +19,7 @@ I'm also an enthusiast for the open-source community, serving as:
 
 - Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
-- Reviewer of [kubeflow/sdk](https://github.com/kubeflow/sdk): Kubeflow SDK for ML experience.
-
 - Member of [kubernetes-sigs](https://github.com/kubernetes-sigs): Kubernetes Special Interest Groups(SIGs) - SIG Apps.
-
-By now, I've accumulated some industrial experience related to **Cloud Native AI/Storage Systems**:
-
-- Cloud @[Databend](https://github.com/databendlabs): Author of [Databend Operator](https://github.com/databendcloud/databend-operator), engaged in the development of on-premise cloud platform.
-
-- GSoC'24 @[kubeflow](https://github.com/kubeflow): Optimize the control plane of [katib](https://github.com/kubeflow/katib), providing an SDK interface for push-based metrics collection.
-
-- Infra @[BondiTech](https://bonditech.com.cn/): Build a new quote storage system on Kubernetes in replace of the current CSV-based storage system.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
 
