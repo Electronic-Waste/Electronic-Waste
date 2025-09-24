@@ -17,7 +17,7 @@ I'm also an enthusiast for the open-source community, serving as:
 
 - Approver of [kubeflow/trainer](https://github.com/kubeflow/trainer): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
-- Reviewer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+- Approver of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
 - Member of [kubernetes-sigs](https://github.com/kubernetes-sigs): Kubernetes Special Interest Groups(SIGs) - SIG Apps.
 
