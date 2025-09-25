@@ -5,7 +5,7 @@
     <a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 </p>
 
-This is Electronic-Waste😎, aka. **Shao Wang**, a freshman graduate 🧑‍🎓 at SJTU majoring in Computer Science.
+This is Electronic-Waste😎, aka. **Shao Wang**, a 2nd-year graduate 🧑‍🎓 at SJTU majoring in Computer Science.
 
 I'm **seeking CS PhD opportunities** in North America for 27fall, with a research focus on **Machine Learning System**.
 
