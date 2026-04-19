@@ -27,7 +27,7 @@ I'm also an enthusiast for the open-source community, serving as:
 
 🌟 My [OSS Insight](https://ossinsight.io/analyze/Electronic-Waste).
 
-ℹ️ Know more about me in my [cv](./resume-en.pdf) and [blog](https://blog.electronicwaste.cn/about/)!
+ℹ️ Know more about me in my [cv](./resume-en.pdf)!
 
 📫 WeChat ID: ElectronicWs
 
