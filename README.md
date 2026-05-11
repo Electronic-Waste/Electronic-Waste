@@ -9,8 +9,6 @@ This is Electronic-Waste😎, aka. **Shao Wang**, a 2nd-year graduate 🧑‍�
 
 My research interests lie in building efficient and large-scale systems for emerging ML workloads such as LLMs and AI agents.
 
-I plan to apply for CS Ph.D. programs in North America starting in Fall 2027.
-
 ### Open Source
 
 I'm also an enthusiast for the open-source community, serving as:
@@ -32,7 +30,3 @@ I'm also an enthusiast for the open-source community, serving as:
 ℹ️ Know more about me in my [academic pages](https://electronic-waste.github.io/).
 
 📫 Please drop me an email if you want to connect!
-
-
-
-
