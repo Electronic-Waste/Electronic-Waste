@@ -13,11 +13,13 @@ My research interests lie in building efficient and large-scale systems for emer
 
 I'm also an enthusiast for the open-source community, serving as:
 
+- Maintainer of [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage Persistent Kernel, compiling LLMs into a MegaKernel.
+
+- Maintainer of [kubeflow/trainer](https://github.com/kubeflow/trainer): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+
+- Maintainer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
+
 - Maintainer of [SJTU-SE](https://github.com/SJTU-SE): An unofficial organization for the School of Software Engineering, Shanghai Jiao Tong University.
-
-- Approver of [kubeflow/trainer](https://github.com/kubeflow/trainer): Distributed ML training and fine-tuning on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
-
-- Approver of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
 - Member of [kubernetes-sigs](https://github.com/kubernetes-sigs): Kubernetes Special Interest Groups(SIGs) - SIG Apps.
 
