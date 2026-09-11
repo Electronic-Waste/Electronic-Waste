@@ -19,8 +19,6 @@ I'm also an enthusiast for the open-source community, serving as:
 
 - Maintainer of [kubeflow/katib](https://github.com/kubeflow/katib): An AutoML toolkit on Kubernetes, subproject of [kubeflow](https://github.com/kubeflow).
 
-- Maintainer of [SJTU-SE](https://github.com/SJTU-SE): An unofficial organization for the School of Software Engineering, Shanghai Jiao Tong University.
-
 - Member of [kubernetes-sigs](https://github.com/kubernetes-sigs): Kubernetes Special Interest Groups(SIGs) - SIG Apps.
 
 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=Electronic-Waste&show_icons=true&count_private=true&hide_title=true'/>
